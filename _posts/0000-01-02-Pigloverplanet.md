@@ -2,5 +2,5 @@
 layout: slide
 title: 'Weclome to gamer time'
 ---
-This is some real gaming stuff
+I was told to change this
 Press Left Arrow to go back.
